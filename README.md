@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SoroushRiyahi
-- 👀 I’m interested in JAVASCRIPT AND PHP (and also HTML & CSS)
-- 🌱 I’m currently learning Python and also trying to learn UI-UX 
+- 👀 I’m interested in JAVASCRIPT (React)AND PHP (and also HTML & CSS)
+- 🌱 I’m currently learning Python.
 - 📫 You can easily DM me on telegram @soroush_riyahi 
 - 📫And im also interested in DEUTSCH und Momentan learne ich Deutsch ✨👀
 - 👋Ich freue mich, dass Sie mit mir Deutsch sprechen !!
