@@ -2,7 +2,7 @@
 - 👀 I’m interested in JAVASCRIPT (React)AND PHP (and also HTML & CSS)
 - 🌱 I’m currently learning Python.
 - 📫 You can easily DM me on telegram @soroush_riyahi 
-- 📫And im also interested in DEUTSCH und Momentan learne ich Deutsch ✨👀
+- 📫And im also interested in DEUTSCH und Momentan wohne ich in Deutschland ✨👀
 - 👋Ich freue mich, dass Sie mit mir Deutsch sprechen !!
 
 
